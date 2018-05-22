@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/gui/examples.jar"/>
+	<classpathentry kind="lib" path="src/gui/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/gui/JTattoo.jar"/>
+	<classpathentry kind="lib" path="src/gui/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="src/gui/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="src/gui/nativeskin.jar"/>
+	<classpathentry kind="lib" path="src/gui/nimrodlf-1.0b.jar"/>
+	<classpathentry kind="lib" path="src/gui/skinlf.jar"/>
+	<classpathentry kind="lib" path="src/gui/substance.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
